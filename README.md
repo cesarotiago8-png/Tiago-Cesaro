@@ -1,7 +1,7 @@
 Olá, eu sou o Tiago Thomaz Cesaro 👋
 
 Estudante de Inteligência Artificial na FIAP  
-Focado em Data Analytics, Machine Learning e Ciência de Dados  
+Focado em Data Analytics, Machine Learning e Data Scientist  
 Desenvolvendo projetos com Python, análise de dados, automação e soluções inteligentes  
 Interesse em Cloud Computing, IA aplicada e tecnologia orientada por dados  
 
